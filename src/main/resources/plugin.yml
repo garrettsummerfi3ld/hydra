@@ -1,0 +1,6 @@
+name: Hydra
+version: ${project.version}
+main: io.garrettsummerfi3ld.hydra.Hydra
+api-version: 1.16
+description: A performance monitoring tool for Minecrafr
+website: garrettsummerfi3d.io
